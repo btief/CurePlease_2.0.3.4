@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PartyAutoBuffs>
+	<CharacterOne>
+		<Buffs>Haste II,Refresh III,Phalanx II</Buffs>
+	</CharacterOne>
+
+	<CharacterTwo>
+		
+	</CharacterTwo>
+
+</PartyAutoBuffs>
